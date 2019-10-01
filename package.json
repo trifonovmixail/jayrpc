@@ -1,6 +1,6 @@
 {
   "name": "jayrpc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JsonRPC server with middleware support",
   "main": "index.js",
   "scripts": {
